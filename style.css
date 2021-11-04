@@ -1,0 +1,23 @@
+body{
+  background-color: #00FFFF;
+  padding-top: 2rem;
+}
+p{
+  text-align: center;
+  color: #00FFFF;
+}
+h6{
+  text-align: center;
+  color: white;
+}
+.row{
+  padding-left: 3rem;
+}
+.btn{
+  background-color: #00FFFF;
+  color: white;
+}
+.col-sm-6{
+  border-radius: 180px;
+  background-color: white;
+}
